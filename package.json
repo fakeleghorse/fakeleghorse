@@ -1,0 +1,22 @@
+{
+  "name": "fakeleghorse",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @fakeleghorse - 👀 I’m interested in ui/ux and stuff - 🌱 I’m currently learning js - 💞️ I’m looking to collaborate on nothing - 📫 How to reach me twt: @fakeleghorse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakeleghorse/fakeleghorse.git"
+  },
+  "author": "pratheesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakeleghorse/fakeleghorse/issues"
+  },
+  "homepage": "https://github.com/fakeleghorse/fakeleghorse#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
